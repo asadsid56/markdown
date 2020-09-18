@@ -18,7 +18,6 @@ Food | Burger
 Color | Yellow
 Pineapple on pizza| <ul> <li> - [x] No </li> <li> - [x] Yes </li> </ul>
 
-<ul> <li>[x] item1</li><li>[ ] item2</li></ul>`  
 
 
 ### Hobbies
